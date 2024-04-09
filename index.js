@@ -1,6 +1,7 @@
 // This one will be a little tricky. So check out this overview first: https://www.youtube.com/watch?v=sJ-c3BA-Ypo
 
 // 1. Create a variable to store the singleton instance of the bank branch. "bankBranchInstance"
+let bankBranchInstance;
 
 // 2. Define a class called `BankBranch` for managing branch information.
 
@@ -32,3 +33,5 @@
 // - The `getBranchInfo` method allows us to retrieve the branch information from the singleton instance.
 // - We demonstrate the Singleton pattern by creating two instances (`branchA` and `branchB`) and show that they both point to the same instance,
 //   ensuring that there is only one set of branch information throughout the application.
+
+
