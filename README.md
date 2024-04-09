@@ -1,6 +1,7 @@
 # [JSL08] Submission: Singleton Pattern for Bank Branch Management
 
 You will:
+
 1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_8_StudentNo_Classcode_Group_Name-Surname_JSL08
 2. Code your solution.
 3. Commit changes to your GitHub repository.
@@ -36,4 +37,29 @@ Design patterns like Singleton, Factory, and Observer can significantly improve 
 
 This challenge will test your ability to create a function with the Singleton Pattern. Woohoo! Your first design pattern!
 
+# Project Overview
 
+- In this project, I used the Singleton pattern to manage the bank's branch information.
+
+# Elements Included
+
+-
+-
+
+# Reflections
+
+## Areas of Mastery
+
+-
+
+## Challenges faced
+
+-
+
+## Areas of Improvement
+
+-
+
+# Overall Learning Experience
+
+- I found this project to be very challenging and tricky.
