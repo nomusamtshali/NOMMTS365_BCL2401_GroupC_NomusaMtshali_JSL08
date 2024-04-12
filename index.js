@@ -36,7 +36,7 @@ const branchB = new BankBranch({ name: "Branch B", location: "Mpumalanga" });
 
 console.log(branchB.getBranchInfo());
 
-console.log(branchA === branchB); 
+console.log(branchA === branchB);
 
 // This pseudo-code provides a step-by-step explanation of how to implement the Singleton Pattern for managing a single instance of the `BankBranch` class throughout the application, ensuring that multiple instances refer to the same object.
 
